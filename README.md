@@ -35,7 +35,7 @@ Try the **100-user free sample** first:
 👉 [Download Sample on Gumroad](https://coreas1.gumroad.com/l/fiuybm)
 
 Ready to go all-in?  
-👉 [Buy full 1,000-user set → $20](https://coreas1.gumroad.com/l/fiuybm)
+👉 [Buy full 1,000-user set → $20](https://coreas1.gumroad.com/l/kzdnm)
 
 ---
 
