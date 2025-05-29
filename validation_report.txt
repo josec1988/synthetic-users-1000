@@ -1,5 +1,0 @@
-📋 Validation Report Summary
-============================
-
-Total users in CSV: 999
-Total image files found: 1500
