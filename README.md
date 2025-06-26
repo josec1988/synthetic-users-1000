@@ -1,7 +1,6 @@
 ![Status: Active](https://img.shields.io/badge/status-active-brightgreen)
 ![Python 3.x](https://img.shields.io/badge/python-3.x-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![CSV Preview](assets/csv_preview.png)
 
 # Synthetic Users 1000
 
