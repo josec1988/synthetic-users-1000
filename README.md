@@ -1,3 +1,17 @@
+
+![Build Status](https://img.shields.io/badge/status-active-brightgreen) ![Python 3.x](https://img.shields.io/badge/python-3.x-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-yellow)
+
+# Synthetic Users 1000
+
+Generate 1,000 realistic user profiles with custom usernames, bios, and enriched images.
+
+## 🔹 Quickstart
+
+```bash
+git clone https://github.com/josec1988/synthetic-users-1000.git
+cd synthetic-users-1000
+python generate_users.py --count 1000
+
 # 🧪 Synthetic Users Dataset (1,000 Records)
 
 This dataset contains 1,000 high-quality synthetic user profiles, including realistic bios, usernames, metadata, and profile image filenames — ideal for:
